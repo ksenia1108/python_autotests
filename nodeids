@@ -1,0 +1,4 @@
+[
+  "tests/test_pokemon.py::test_piece_body",
+  "tests/test_pokemon.py::test_status_code"
+]
